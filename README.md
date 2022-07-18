@@ -14,9 +14,17 @@
 
 
 <p align="center">
+<a href="https://github.com/junix033101/MyPocket">
   <img align="center" margin="10rem" src="https://github-readme-stats.vercel.app/api/pin/?username=junix033101&repo=MyPocket&theme=solarized-light" /> &nbsp
+</a>
+<a href="https://github.com/junix033101/GoGamify-Students">   
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junix033101&repo=GoGamify-Students&theme=solarized-light" />
+</a>
    <br><br>
+<a href="https://github.com/junix033101/iSumbong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junix033101&repo=iSumbong&theme=solarized-light" /> &nbsp
+</a>
+<a href="https://github.com/junix033101/GoGamify-Students">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junix033101&repo=Dice-Game&theme=solarized-light" />
+</a>
 </p>
