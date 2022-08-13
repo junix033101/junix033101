@@ -1,3 +1,7 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=junix033101&label=Profile%20views&color=0e75b6&style=flat" alt="jac" /> 
+</p>
+
 <h1 align="center">
     Hi there 👋 Me Noob UWU
 </h1>
@@ -21,6 +25,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junix033101&repo=Dice-Game&theme=solarized-light" />
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=junix033101&label=Profile%20views&color=0e75b6&style=flat" alt="jac" /> 
-</p>
+
